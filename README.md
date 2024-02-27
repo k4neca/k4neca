@@ -1,16 +1,27 @@
-### Hi there 👋
+# CAIO CESAR DE SOUZA ALMEIDA
 
-<!--
-**k4neca/k4neca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Perfil do Estudante de Engenharia de Software - PUC Minas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+
+## Sobre Mim
+
+- 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas - Newton Paiva.
+- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software.
+- 💼 **Experiência Profissional**: Assitente de TI Pleno - TLP SERVIÇOS
+
+## Habilidades
+
+- **Linguagens de Programação:** Java, C#, C
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, VS Code, Eclipse
+
+## Contato
+
+- **E-mail:** [caiocsa98@gmail.com]
+- **Twitter:** [x.com/k4neca]
+- **LinkedIn:** [https://www.linkedin.com/in/caiocsalmeida/]
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
