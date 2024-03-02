@@ -9,7 +9,7 @@ Seja bem-vindo ao meu perfil! 👋
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas - Newton Paiva.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software.
-- 💼 **Experiência Profissional**: Assitente de TI Pleno - TLP SERVIÇOS
+- 💼 **Experiência Profissional**: (INFRAESTRUTURA) Assitente de TI Pleno - TLP SERVIÇOS 
 
 ## Habilidades
 
@@ -20,8 +20,8 @@ Seja bem-vindo ao meu perfil! 👋
 
 ## Contato
 
-- **E-mail:** [caiocsa98@gmail.com]
-- **Twitter:** [x.com/k4neca]
-- **LinkedIn:** [https://www.linkedin.com/in/caiocsalmeida/]
+- **E-mail:** caiocsa98@gmail.com
+- **Twitter:** https://twitter.com/k4neca
+- **LinkedIn:** https://www.linkedin.com/in/caiocsalmeida/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
