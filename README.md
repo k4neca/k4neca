@@ -9,14 +9,14 @@ Seja bem-vindo ao meu perfil! 👋
 
 - 👨‍🎓 **Graduação**: Análise e Desenvolvimento de Sistemas - Newton Paiva.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software.
-- 💼 **Experiência Profissional**: (INFRAESTRUTURA) Assitente de TI Pleno - TLP SERVIÇOS 
+- 💼 **Experiência Profissional**: (INFRAESTRUTURA) Assistente de TI Pleno - TLP SERVIÇOS 
 
 ## Habilidades
 
 - **Linguagens de Programação:** Java, C#, C
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Banco de Dados:** MySQL
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Ferramentas:** Git, VS Code, Eclipse, IntelliJ
 
 ## Contato
 
