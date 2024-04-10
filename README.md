@@ -1,7 +1,7 @@
 # CAIO CESAR DE SOUZA ALMEIDA
 
 
-# Perfil do Estudante de ADS - Newton Paiva
+# Estudante de ADS - Newton Paiva
 
 Seja bem-vindo ao meu perfil! 👋 
 
