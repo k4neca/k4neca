@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="[https://github.com/k4neca/k4neca/blob/main/img/github-header-image.png?raw=true](https://github.com/k4neca/k4neca/blob/main/Img/github-header-image.png?raw=true)"/>
+<img align="center" src="https://github.com/k4neca/k4neca/blob/main/img/github-header-image.png?raw=true"/>
 </div>
 
 -----
