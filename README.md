@@ -68,30 +68,30 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <div align="center">
 <tr>
+<td><a href="https://www.java.com/pt-BR/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/java.png?raw=true"/></a></td>
+&nbsp;
+<td><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/intellij.png?raw=true"/></a></td>
+&nbsp;
+<td><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/eclipse.png?raw=true"/></a></td>
+&nbsp;
+<td><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/mysql.png?raw=true"/></a></td>
+&nbsp; 
+<td><a href="https://dbeaver.io/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/dbeaver.png?raw=true"/></a></td>
+&nbsp;  
 <td><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/c.png?raw=true"/></a></td>
 &nbsp;  
 <td><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/csharp.png?raw=true"/></a></td>
-&nbsp; 
-<td><a href="https://www.java.com/pt-BR/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/java.png?raw=true"/></a></td>
-&nbsp;  
+&nbsp;
+<td><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/vs.png?raw=true"/></a></td>
+&nbsp;
 <td><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/html.svg?raw=true"/></a></td>
 &nbsp; 
 <td><a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/css.svg?raw=true"/></a></td>
 &nbsp; 
 <td><a href="https://www.w3schools.com/js/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/js.png?raw=true"/></a></td>
-&nbsp;  
-<td><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/mysql.png?raw=true"/></a></td>
-&nbsp; 
-<td><a href="https://dbeaver.io/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/dbeaver.png?raw=true"/></a></td>
 &nbsp;   
 <td><a href="https://git-scm.com/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/git.png?raw=true"/></a></td>
 &nbsp; 
-<td><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/eclipse.png?raw=true"/></a></td>
-&nbsp; 
-<td><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/vs.png?raw=true"/></a></td>
-&nbsp;
-<td><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/intellij.png?raw=true"/></a></td>
-&nbsp;
 </tr>
 </div>
 </div>
