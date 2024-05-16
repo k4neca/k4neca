@@ -31,7 +31,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o Caio Almeida, mais conhecido como <code>Kaneca</code>, tenho 25 anos, moro em Sabará - MG e sou estudante na área de informática desde os 17 anos de idade. Atualmente sou <code>estudante</code> nos curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> </i>
+<i><b>Olá</b> :wave:, sou o Caio Almeida, mais conhecido como <code>Kaneca</code>, tenho 25 anos, moro em Sabará - MG e sou estudante na área de informática desde os 17 anos de idade. Atualmente sou <code>Estudante</code> no curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva e <code>Assistente de TI</code> na TLP Serviços <a href="https://tlpservicos.com.br/"></a>.</i>
 </div>
 
 -----
