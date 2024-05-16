@@ -38,7 +38,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="320px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="300px" height="300px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -88,6 +88,7 @@
 &nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/intellij.png?raw=true"/></a>
 &nbsp;
+
 </div>
 
 -----
