@@ -124,6 +124,7 @@
 -----
 
 <div align="center">
+Visitas ao perfil: <br /> 
 <img alt="Profile visitors" src="https://profile-counter.glitch.me/k4neca/count.svg"/>
 </div>
 
