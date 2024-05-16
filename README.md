@@ -64,11 +64,11 @@
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/c.png"/></a></code>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/c.png"/></a>
 &nbsp;  
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/csharp.png"/></a></code>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/csharp.png"/></a>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/java.png"/></a></code>
+<a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/java.png"/></a>
 &nbsp;  
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/html.svg"/></a></code>
 &nbsp; 
