@@ -103,8 +103,8 @@
 
 <div>
 <img align="right" alt="GitHub Details" width="450px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4neca&theme=github_dark"/>
-<img alt="GitHub Stats" width="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4neca&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4neca&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4neca&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4neca&theme=github_dark"/>
 </div>
 
 -----
