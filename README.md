@@ -14,17 +14,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/k4neca" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/github2.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/k4neca" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:caiocsa98@gmail.com" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/gmail2.png" width="50px" height="50px"/></a>
+<td><a href="mailto:caiocsa98@gmail.com" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531972127243" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/wpp2.png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531972127243" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/caiocsalmeida/" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/insta2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/caiocsalmeida/" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/caiocsalmeida/" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/linkedin2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/caiocsalmeida/" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/313738529706344449" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/discord2.png" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/313738529706344449" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
