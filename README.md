@@ -124,6 +124,7 @@
 
 -----
 
-
-
+<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Obrigado%20pela%20visita!&section=footer&reversal=true&fontColor=black&fontSize=60&animation=fadeIn"/>
+</div>
 -----
