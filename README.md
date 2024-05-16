@@ -63,10 +63,10 @@
 </div>
 
 
-<div align="center">
+<div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-<tr>
+<tr align="center">
 <td><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/c.png?raw=true"/></a></td>
 &nbsp;  
 <td><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://github.com/k4neca/k4neca/blob/main/Img/csharp.png?raw=true"/></a></td>
