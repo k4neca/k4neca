@@ -123,19 +123,9 @@
 
 -----
 
-<div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-<br />
+<div align="center">
 <img alt="Profile visitors" src="https://profile-counter.glitch.me/k4neca/count.svg"/>
 </div>
 
-<img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg">
 
 -----
