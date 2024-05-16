@@ -38,7 +38,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="290px" height="290px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -46,7 +46,7 @@
 <div align="justify">
 <p> 
 - :computer: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Análise e Desenvolvimento de Sistemas<br />
-- :briefcase: &nbsp; Na <a href="https://tlpservicos.com.br/" target="_blank">TLP</a>, atuo como <code>Assistente de TI Pleno</code>, atuando focado em infraestrutura de redes,<br /> manutenção, gestão e controle patrimonial de notebooks, desktops e celulares <br />
+- :briefcase: &nbsp; Na <a href="https://tlpservicos.com.br/" target="_blank">TLP</a>, atuo como <code>Assistente de TI Pleno</code>, atuando focado em infraestrutura de redes, manutenção, gestão e controle patrimonial de notebooks, desktops e celulares <br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java :hotsprings:, veja alguns códigos que fiz <a href="https://github.com/k4neca/Java" target="_blank">aqui</a>.<br />
 - :pushpin: &nbsp; No futuro quero estudar C#, Javascript e Kotlin<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">GALO</a> :rooster:<br />
