@@ -38,7 +38,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="340px" height="320px"/>
+<img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="340px" height="300px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -47,7 +47,7 @@
 <p> 
 - :computer: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Análise e Desenvolvimento de Sistemas<br />
 - :briefcase: &nbsp; Na <a href="https://tlpservicos.com.br/" target="_blank">TLP</a>, atuo como <code>Assistente de TI Pleno</code>, atuando focado em infraestrutura de redes, manutenção e gestão de notebooks, desktops e celulares <br />
-- :atom: &nbsp; Sou entusiasta da Linguagem Java :hotsprings:, veja alguns códigos que fiz <a href="https://github.com/k4neca/Java" target="_blank">aqui</a>.
+- :atom: &nbsp; Sou entusiasta da Linguagem Java :hotsprings:, veja alguns códigos que fiz <a href="https://github.com/k4neca/Java" target="_blank">aqui</a>.<br />
 - :pushpin: &nbsp; No futuro quero estudar C#, Javascript e Kotlin<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">GALO</a>. :rooster:<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://www.counter-strike.net/" target="_blank">Counter Strike 2</a>, asssitir séries, filmes e lives, <a href="https://www.fifa.com/fifaplus/pt" target="_blank">jogar futebol</a><br />
