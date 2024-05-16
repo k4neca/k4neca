@@ -102,7 +102,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
-<img align="right" alt="GitHub Details" width="1080px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4neca&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4neca&theme=github_dark"/>
 <img alt="GitHub Stats" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4neca&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4neca&theme=github_dark"/>
 </div>
