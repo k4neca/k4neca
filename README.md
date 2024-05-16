@@ -23,6 +23,8 @@
 </td>
 <td><a href="https://discordapp.com/users/313738529706344449" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
+<td><a href="https://steamcommunity.com/id/k4neca/" target="_blank"><img src="https://github.com/k4neca/k4neca/blob/main/Img/logo-steam.png?raw=true" width="50px" height="50px"/></a>
+</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
