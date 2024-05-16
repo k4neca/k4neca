@@ -51,7 +51,7 @@
 - :atom: &nbsp; Sou entusiasta da Linguagem Java :hotsprings:, veja alguns códigos que fiz <a href="https://github.com/k4neca/Java" target="_blank">aqui</a>.<br />
 - :pushpin: &nbsp; No futuro quero estudar C#, Javascript e Kotlin<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">GALO</a> :rooster:<br />
-- :soccer: &nbsp; Meus hobbies são jogar CS, asssitir séries, filmes e lives e jogar futebol<br />
+- :video_game: &nbsp; Meus hobbies são jogar CS, asssitir séries, filmes e lives e jogar futebol<br />
 - :cinema: &nbsp; Recomendo assistir Mr. Robot (Melhor série já feita)<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:caiocsa98@gmail.com" target="_blank">e-mail</a> pessoal.<br />
