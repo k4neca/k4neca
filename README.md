@@ -55,6 +55,7 @@
 - :cinema: &nbsp; Recomendo assistir Mr. Robot (Melhor série já feita)<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:caiocsa98@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :walking: &nbsp; Visitas ao meu perfil: <img alt="Profile visitors" src="https://profile-counter.glitch.me/k4neca/count.svg"/><br />
 </p>
 </div>
 </div>
@@ -123,10 +124,6 @@
 
 -----
 
-<div align="center">
-Visitas ao perfil: <br /> 
-<img alt="Profile visitors" src="https://profile-counter.glitch.me/k4neca/count.svg"/>
-</div>
 
 
 -----
