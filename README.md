@@ -114,7 +114,7 @@
 </details>
 </div>
 <div align="center">
-<img alt="Spotify" width="300px" height="30px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify" width="300px" height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="300px" height="320px" src="https://spotify-recently-played-readme.vercel.app/api?user=a53kz11wso6js9elyyf5y8uzg&count=8"/>
 </div>
 <div>
