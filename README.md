@@ -1,13 +1,11 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/k4neca/k4neca/blob/main/Img/github-header-image.png"/>
+<img align="center" alt="Header" src="https://github.com/k4neca/k4neca/blob/main/Img/header.png"/>
 </div>
 
------
-
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&height=200&lines=BEM+VINDO+AO+MEU+GITHUB!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=80&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1080&height=200&lines=BEM+VINDO+AO+MEU+GITHUB!" alt="Typing SVG" /></a>
 </div>
 
 -----
