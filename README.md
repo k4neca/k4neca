@@ -103,7 +103,6 @@
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4neca&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4necai&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4neca&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4neca&theme=github_dark"/>
 </div>
@@ -118,7 +117,7 @@
 </details>
 </div>
 <div align="center">
-<img alt="Spotify" width="300px" height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify" width="300px" height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=a53kz11wso6js9elyyf5y8uzg&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="300px" height="320px" src="https://spotify-recently-played-readme.vercel.app/api?user=a53kz11wso6js9elyyf5y8uzg&count=6"/>
 </div>
 <div>
