@@ -6,6 +6,12 @@
 
 -----
 
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&height=200&lines=BEM+VINDO+AO+MEU+GITHUB!" alt="Typing SVG" /></a>
+</div>
+
+-----
+
 <div align="center">
 <table>
 <tr>
@@ -26,8 +32,6 @@
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
