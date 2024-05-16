@@ -39,6 +39,8 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/k4neca/k4neca/blob/main/Img/fsociety.gif?raw=true" width="290px" height="290px"/>
 </div>
+ 
+-----
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
@@ -57,7 +59,6 @@
 </div>
 </div>
 
------
 
 <div>
 
