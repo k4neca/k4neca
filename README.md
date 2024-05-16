@@ -133,7 +133,9 @@
 </tr> 
 </table>
 <br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=k4neca"/>
+<img alt="Profile visitors" src="https://profile-counter.glitch.me/k4neca/count.svg"/>
 </div>
+
+<img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg">
 
 -----
