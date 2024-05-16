@@ -70,23 +70,23 @@
 &nbsp; 
 <a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/java.png"/></a>
 &nbsp;  
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/html.svg"/></a></code>
+<a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/html.svg"/></a>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/css.svg"/></a></code>
+<a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/css.svg"/></a>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/js.png"/></a></code>
+<a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/js.png"/></a>
 &nbsp;  
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/mysql.png"/></a></code>
+<a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/mysql.png"/></a>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/dbeaver.png"/></a></code>
+<a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/dbeaver.png"/></a>
 &nbsp;   
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/git.png"/></a></code>
+<a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/git.png"/></a>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/eclipse.png"/></a></code>
+<a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/eclipse.png"/></a>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/vs.png"/></a></code>
+<a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/vs.png"/></a>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/intellij.png"/></a></code>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/k4neca/k4neca/blob/main/Img/intellij.png"/></a>
 &nbsp;
 </div>
 
