@@ -122,9 +122,8 @@
 </div>
 </div>
 
------
 
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&fontColor=black&fontSize=60&animation=fadeIn"/>
 </div>
------
+
