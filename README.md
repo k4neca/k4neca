@@ -23,33 +23,46 @@ Olá! 👋 Sou o **Caio Almeida (Kaneca)**. Sou apaixonado por tecnologia desde 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Backend**
+**Linguagens & Backend**<br><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Ferramentas & IDEs**
+**Ferramentas & IDEs**<br><br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 Estatísticas
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4neca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4neca&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k4neca&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4neca&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens mais usadas" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k4neca&theme=github_dark" alt="Streak do GitHub" />
+</div>
+
+
 
 ### 🎵 No fone de ouvido
+
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=a53kz11wso6js9elyyf5y8uzg&cover_image=true&theme=default" width="45%"/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=a53kz11wso6js9elyyf5y8uzg&count=5" width="45%"/>
+  <a href="https://open.spotify.com/user/a53kz11wso6js9elyyf5y8uzg">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=a53kz11wso6js9elyyf5y8uzg" alt="Tocando agora no Spotify" />
+  </a>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=a53kz11wso6js9elyyf5y8uzg&count=5&unique=true" width="400px" alt="Músicas recentes" />
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&fontColor=black&fontSize=60&animation=fadeIn"/>
